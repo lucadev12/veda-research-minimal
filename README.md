@@ -300,17 +300,17 @@ All in /brand/ as .png files:
 
 ## Theming Guide
 
-This version uses the **Research Grade Minimal** theme:
+This version uses the **Performance Recovery** theme:
 
-- Palette: white/black/steel grey/safety orange
-- Typography: geometric sans (body) + monospace (labels/data)
-- Spacing: tight, utilitarian
-- Borders: sharp (no border-radius), heavy borders
-- Animation: minimal, functional only
-- Cards: bordered, flat, no shadows
-- Images: sharp edges, contained, grayscale treatments
-- CTA buttons: solid black with orange hover
-- Posture: brutalist, research-paper aesthetic, documentary
+- Palette: graphite/ice-blue/red/aluminum (dark mode)
+- Typography: clean sans (display + body) + monospace (data)
+- Spacing: athletic, high-density
+- Borders: minimal radius, clean edges
+- Animation: dynamic, performance-driven
+- Cards: elevated, subtle shadows
+- Images: contained, high-contrast on dark
+- CTA buttons: red primary with graphite outline
+- Posture: athletic, dark, data-driven, high-performance
 
 Things that stay constant across all themes:
 - Page structure and section order
