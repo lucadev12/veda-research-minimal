@@ -52,8 +52,7 @@ Full marketing landing page. One long scroll with distinct sections.
 4 trust signals in a row:
 1. "Clinically Formulated" -- compounded in licensed pharmacies
 2. "Evidence-Graded" -- every product carries a transparency grade
-3. "Made in USA" -- domestic manufacturing
-4. "Physician Oversight" -- certain items require physician sign-off
+3. "Physician Oversight" -- certain items require physician sign-off
 
 Layout: 4-col grid (2-col on mobile).
 
